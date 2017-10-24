@@ -1,0 +1,19 @@
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Tamagochi_IlyaProject\Tamagochi_IlyaProject\bin\Debug\Tamagochi_IlyaProject.exe.config
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Tamagochi_IlyaProject\Tamagochi_IlyaProject\bin\Debug\Tamagochi_IlyaProject.exe
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Tamagochi_IlyaProject\Tamagochi_IlyaProject\bin\Debug\Tamagochi_IlyaProject.pdb
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.csprojResolveAssemblyReference.cache
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.Form1.resources
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.Properties.Resources.resources
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.csproj.GenerateResource.Cache
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.exe
+c:\users\илья алейчик\documents\visual studio 2017\Projects\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.pdb
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Tamagochi_IlyaProject\Tamagochi_IlyaProject\bin\Debug\Tamagochi_IlyaProject.exe.config
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Tamagochi_IlyaProject\Tamagochi_IlyaProject\bin\Debug\Tamagochi_IlyaProject.exe
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Tamagochi_IlyaProject\Tamagochi_IlyaProject\bin\Debug\Tamagochi_IlyaProject.pdb
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.Form1.resources
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.Properties.Resources.resources
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.csproj.GenerateResource.Cache
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.exe
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\C# Project\Tamagochi_IlyaProject\Tamagochi_IlyaProject\obj\Debug\Tamagochi_IlyaProject.pdb
